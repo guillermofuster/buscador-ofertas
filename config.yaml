@@ -23,7 +23,7 @@ jobspy:
     - {location: "Germany", country: "germany"}
     - {location: "Netherlands", country: "netherlands"}
     - {location: "Sweden", country: "sweden"}
-    - {location: "European Union", country: "worldwide", remoto: true}
+    - {location: "European Union", country: "spain", remoto: true}
 
 # Adzuna: códigos de país (https://developer.adzuna.com)
 adzuna:
