@@ -78,11 +78,15 @@ def buscar_jobspy(cfg) -> list[dict]:
     for ub in c["ubicaciones"]:
         for termino in cfg["busquedas"]:
             try:
+                # Indeed no admite hours_old junto con is_remote: en las búsquedas en remoto
+                # no se pasa hours_old y la antigüedad se filtra después en evaluar().
+                extra = {"is_remote": True} if ub.get("remoto") else {"hours_old": horas}
                 df = scrape_jobs(
                     site_name=c["sitios"], search_term=termino, location=ub["location"],
-                    country_indeed=ub.get("country", "worldwide"), is_remote=ub.get("remoto", False),
-                    results_wanted=c["resultados_por_busqueda"], hours_old=horas,
+                    country_indeed=ub.get("country", "spain"),
+                    results_wanted=c["resultados_por_busqueda"],
                     linkedin_fetch_description=True, description_format="markdown", verbose=0,
+                    **extra,
                 )
             except Exception as e:
                 log(f"JobSpy error {termino}/{ub['location']}: {e}")
