@@ -1,6 +1,6 @@
 # Ofertas vigentes
 
-Actualizado: 2026-11-25 · 67 ofertas de los últimos 21 días.
+Actualizado: 2026-11-25 · 69 ofertas de los últimos 21 días.
 
 | Encaje | Puesto | Empresa | Lugar | Publicada | Encontrada | Fuente |
 |---|---|---|---|---|---|---|
@@ -9,6 +9,7 @@ Actualizado: 2026-11-25 · 67 ofertas de los últimos 21 días.
 | ★★★★★ | [Environment Artist](https://www.adzuna.es/details/5972391311?utm_medium=api&utm_source=40fef500) | Bespoke Pixel | Barcelona | 2026-11-20 | 2026-11-24 | Adzuna |
 | ★★★★★ | [Environment Artist - Unreal Engine 5](https://www.adzuna.fr/details/5953930798?utm_medium=api&utm_source=40fef500) | Acid Pixel Studios | France | 2026-11-05 | 2026-11-24 | Adzuna |
 | ★★★★★ | [Expression of Interest - Unreal Environment Artist](https://jooble.org/away/9006308551365417458?p=1&pos=1&rgn=55157&cid=24876&ckey=environment+artist&jobAge=75&brelb=10&scr=419.5437&bscr=419.5437&aq=6268472249446129900&elckey=-7639652411686398128) | AGBO | Los Angeles, CA (remoto) | 2026-11-21 | 2026-11-24 | Jooble |
+| ★★★★★ | [3D Environment Artist](https://remotegamejobs.com/jobs/sperasoft-3d-environment-artist-remote-job) | Sperasoft (en tu lista) | Remoto (remoto) | 2026-11-25 | 2026-11-25 | RemoteGameJobs |
 | ★★★★ | [Unreal Environment Artist (m/f/d)](https://www.linkedin.com/jobs/view/4489613676) | welevel | Munich, Bavaria, Germany | 2026-11-10 | 2026-11-24 | Linkedin |
 | ★★★★ | [3D artist](https://se.indeed.com/viewjob?jk=413dd28dd4b7a144) | Seventy Agency | Stockholm, AB, Sweden | 2026-11-10 | 2026-11-24 | Indeed |
 | ★★★★ | [3D Artist @ Rits Center](https://www.adzuna.pl/details/5960992312?utm_medium=api&utm_source=40fef500) | Rits Center | Polska | 2026-11-11 | 2026-11-24 | Adzuna |
@@ -70,4 +71,5 @@ Actualizado: 2026-11-25 · 67 ofertas de los últimos 21 días.
 | ★★★ | [3D Artist (Remote OK)](https://gamejobs.co/3D-Artist-Remote-OK-at-RedPoint-Labs) | RedPoint Labs | Remote (remoto) | ? | 2026-11-25 | GameJobs.co |
 | ★★★ | [3d Artist / Talent Pool](https://gamejobs.co/3d-Artist-Talent-Pool-at-Arvore) | Arvore |  | ? | 2026-11-25 | GameJobs.co |
 | ★★★ | [Game Artist](https://gamejobs.co/Game-Artist-at-Loop-Games) | Loop Games | Ankara, Turkey | 2026-11-24 | 2026-11-25 | GameJobs.co |
+| ★★★ | [Praktikant (d/m/w) im Bereich 3D Game Artist/ 3D Modeler für eine Simulations- und Planungssoftware](https://www.linkedin.com/jobs/view/4484626261) | Airbus Defence and Space | Immenstaad am Bodensee, Baden-Württemberg, Germany | 2026-11-24 | 2026-11-25 | Linkedin |
 | ★★ | [3D Artist (Stories LifeTM)](https://www.adzuna.es/details/5962966405?utm_medium=api&utm_source=40fef500) | SUBARA SG Ltd. | España | 2026-11-12 | 2026-11-24 | Adzuna |
