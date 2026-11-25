@@ -24,14 +24,24 @@ jobspy:
     - {location: "Netherlands", country: "netherlands"}
     - {location: "Sweden", country: "sweden"}
     - {location: "European Union", country: "spain", remoto: true}
+    # country = país de Indeed; "worldwide" ya no es válido en JobSpy
 
 # Adzuna: códigos de país (https://developer.adzuna.com)
 adzuna:
   paises: ["pl", "es", "de", "nl", "fr", "it", "at", "be"]
 
+# Portales de empleo de videojuegos (true = se buscan, false = no)
+# ArtStation, Hitmarker y XPGameJobs no se pueden leer desde un servidor (bloqueo o páginas hechas con JavaScript).
+portales:
+  remotegamejobs: true
+  stratos: true
+  gamejobs_co: true
+  gamesindustry: true
+  grackle: true
+
 # Jooble: ubicaciones de texto libre
 jooble:
-  ubicaciones: ["Poland", "Spain", "Germany", "Netherlands", "Remote"]
+  ubicaciones: ["Poland", "Spain", "Germany", "Netherlands"]
 
 filtros:
   # El título debe contener al menos una de estas expresiones (sin mayúsculas)
@@ -98,6 +108,37 @@ filtros:
     - "rev-share"
     - "revenue share"
     - "unpaid"
+  # Si la ubicación contiene algo de esto, se descarta (no puede trabajar ahí sin visado)
+  lugares_excluye:
+    - "united states"
+    - "usa"
+    - "canada"
+    - "quebec"
+    - "ontario"
+    - "british columbia"
+    - "montreal"
+    - "montréal"
+    - "toronto"
+    - "vancouver"
+    - "united kingdom"
+    - "england"
+    - "london"
+    - "china"
+    - "japan"
+    - "korea"
+    - "singapore"
+    - "malaysia"
+    - "kuala lumpur"
+    - "india"
+    - "vietnam"
+    - "philippines"
+    - "indonesia"
+    - "australia"
+    - "brazil"
+    - "mexico"
+    - "argentina"
+    - "colombia"
+    - "chile"
   # Descarta si pide este número de años o más
   anios_max: 4
   # Si la descripción pide alguno de estos idiomas, baja el encaje
