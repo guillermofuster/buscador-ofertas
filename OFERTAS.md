@@ -1,6 +1,6 @@
 # Ofertas vigentes
 
-Actualizado: 2026-11-24 · 53 ofertas de los últimos 21 días.
+Actualizado: 2026-11-25 · 67 ofertas de los últimos 21 días.
 
 | Encaje | Puesto | Empresa | Lugar | Publicada | Encontrada | Fuente |
 |---|---|---|---|---|---|---|
@@ -25,6 +25,9 @@ Actualizado: 2026-11-24 · 53 ofertas de los últimos 21 días.
 | ★★★★ | [Remote Environment Artist - Unreal World Builder](https://jooble.org/away/6234897591452992436?p=1&pos=9&rgn=55157&cid=24876&ckey=environment+artist&jobAge=75&brelb=100&scr=253.14294&bscr=253.14294&aq=6268472249446129900&elckey=-7639652411686398128) | Half Mermaid Productions | New York, NY (remoto) | 2026-11-21 | 2026-11-24 | Jooble |
 | ★★★★ | [3D Environment Artist - Talent Pool (2026 Opportunities)](https://jooble.org/away/8650770906522580435?p=1&pos=10&rgn=55157&cid=24876&ckey=environment+artist&jobAge=171&brelb=15&scr=156.37836&bscr=156.37836&aq=6268472249446129900&elckey=-7639652411686398128) | Liquid Development | Portland, OR (remoto) | 2026-11-17 | 2026-11-24 | Jooble |
 | ★★★★ | [Junior 3D Artist - Remote + Equity + Mentorship](https://jooble.org/away/7101936931091284462?p=1&pos=1&rgn=55157&cid=24876&ckey=junior+3D+artist&jobAge=99&brelb=100&scr=840.26904&bscr=840.26904&aq=6476493620312222695&elckey=2494469574589074853) | Citadel | Santa Rosa, CA (remoto) | 2026-11-20 | 2026-11-24 | Jooble |
+| ★★★★ | [3D Environment Artist](https://www.linkedin.com/jobs/view/4489571532) | Pixel Movement | European Union (remoto) | 2026-11-13 | 2026-11-25 | Linkedin |
+| ★★★★ | [Freelance 3D Asset Artist (Unreal Engine 5)](https://remotegamejobs.com/jobs/promorte-games-freelance-3d-asset-artist-unreal-engine-5-remote-job) | Promorte Games | Remoto (remoto) | 2026-11-22 | 2026-11-25 | RemoteGameJobs |
+| ★★★★ | [Environment Artist – Open Application / Artiste de l'environnement- candidature libre](https://gamejobs.co/Environment-Artist-Open-Application-Artiste-de-l-environnement-candidature-libre-at-Larian-Studios) | Larian Studios (en tu lista) | Les Mamelles, Seychelles | ? | 2026-11-25 | GameJobs.co |
 | ★★★ | [Level Artist](https://pl.indeed.com/viewjob?jk=895adf6a4c07ed8c) | TECHLAND (en tu lista) | Wrocław, DO, Poland | 2026-11-12 | 2026-11-24 | Indeed |
 | ★★★ | [Game Artist - Paper.io 2](https://www.linkedin.com/jobs/view/4446350993) | Voodoo | Barcelona, Catalonia, Spain | 2026-11-14 | 2026-11-24 | Linkedin |
 | ★★★ | [Level Artist](https://www.linkedin.com/jobs/view/4491442585) | Side | Spain | 2026-11-17 | 2026-11-24 | Linkedin |
@@ -56,4 +59,15 @@ Actualizado: 2026-11-24 · 53 ofertas de los últimos 21 días.
 | ★★★ | [3D Generalist - AI Model Specialist](https://jooble.org/desc/516908648523067840?ckey=3D+generalist&rgn=55157&pos=1&groupId=43060&elckey=8619788003211080985&p=1&aq=9006094155869120464&cid=24876&jobAge=459&brelb=110&bscr=603.1655&scr=603.1655) | Mercor | New York, NY (remoto) | 2026-11-05 | 2026-11-24 | Jooble |
 | ★★★ | [3D Generalist](https://jooble.org/away/6954599636219139218?p=1&pos=2&rgn=55157&cid=24876&ckey=3D+generalist&jobAge=123&brelb=100&scr=520.3746&bscr=520.3746&aq=9006094155869120464&elckey=8619788003211080985) | Sprout | Boston, MA (remoto) | 2026-11-19 | 2026-11-24 | Jooble |
 | ★★★ | [3D Generalist - GameSim - Talent Pipeline](https://jooble.org/away/-3271681489595380861?p=1&pos=10&rgn=55157&cid=24876&ckey=3D+generalist&jobAge=27&brelb=100&scr=302.71133&bscr=302.71133&aq=9006094155869120464&elckey=8619788003211080985) | Keywords Studios Plc | Orlando, FL (remoto) | 2026-11-23 | 2026-11-24 | Jooble |
+| ★★★ | [3D Artist](https://www.linkedin.com/jobs/view/4494157082) | LearnShift | Bucharest, Romania (remoto) | 2026-11-24 | 2026-11-25 | Linkedin |
+| ★★★ | [3D Modeler Blender](https://www.linkedin.com/jobs/view/4484675541) | agap2 Italia | Vicenza, Veneto, Italy (remoto) | 2026-11-04 | 2026-11-25 | Linkedin |
+| ★★★ | [Renderista 3D Artist (Bs)](https://www.adzuna.it/details/5977367608?utm_medium=api&utm_source=40fef500) | azienda/studio: luca isonni | Padova, Provincia di Padova | 2026-11-24 | 2026-11-25 | Adzuna |
+| ★★★ | [3D Artist](https://www.adzuna.it/details/5977367246?utm_medium=api&utm_source=40fef500) | Wolf | Milano, Provincia di Milano | 2026-11-24 | 2026-11-25 | Adzuna |
+| ★★★ | [3D Artist / 3D Designer](https://www.adzuna.it/details/5977366741?utm_medium=api&utm_source=40fef500) | ELSE Corp | Milano, Provincia di Milano | 2026-11-24 | 2026-11-25 | Adzuna |
+| ★★★ | [3D Artist](https://www.adzuna.it/details/5977365075?utm_medium=api&utm_source=40fef500) | Tredigraph srl | Spilamberto, Provincia di Modena | 2026-11-24 | 2026-11-25 | Adzuna |
+| ★★★ | [3D Artist](https://gamejobs.co/3D-Artist-at-Peak-2052) | Peak | Istanbul, Turkey | ? | 2026-11-25 | GameJobs.co |
+| ★★★ | [3D Artist , Performance Marketing](https://gamejobs.co/3D-Generalist-Marketing-at-Peak) | Peak | Istanbul, Turkey | ? | 2026-11-25 | GameJobs.co |
+| ★★★ | [3D Artist (Remote OK)](https://gamejobs.co/3D-Artist-Remote-OK-at-RedPoint-Labs) | RedPoint Labs | Remote (remoto) | ? | 2026-11-25 | GameJobs.co |
+| ★★★ | [3d Artist / Talent Pool](https://gamejobs.co/3d-Artist-Talent-Pool-at-Arvore) | Arvore |  | ? | 2026-11-25 | GameJobs.co |
+| ★★★ | [Game Artist](https://gamejobs.co/Game-Artist-at-Loop-Games) | Loop Games | Ankara, Turkey | 2026-11-24 | 2026-11-25 | GameJobs.co |
 | ★★ | [3D Artist (Stories LifeTM)](https://www.adzuna.es/details/5962966405?utm_medium=api&utm_source=40fef500) | SUBARA SG Ltd. | España | 2026-11-12 | 2026-11-24 | Adzuna |
