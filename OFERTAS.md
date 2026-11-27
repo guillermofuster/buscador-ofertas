@@ -1,13 +1,12 @@
 # Ofertas vigentes
 
-Actualizado: 2026-11-26 · 73 ofertas de los últimos 21 días.
+Actualizado: 2026-11-27 · 74 ofertas de los últimos 21 días.
 
 | Encaje | Puesto | Empresa | Lugar | Publicada | Encontrada | Fuente |
 |---|---|---|---|---|---|---|
 | ★★★★★ | [3D Environment Artist & Level Designer](https://www.linkedin.com/jobs/view/4492007178) | ScapeTheGame | Stockholm, Stockholm County, Sweden | 2026-11-18 | 2026-11-24 | Linkedin |
 | ★★★★★ | [Environment Artist](https://www.linkedin.com/jobs/view/4487452808) | Coffee Stain North | Stockholm, Stockholm County, Sweden | 2026-11-10 | 2026-11-24 | Linkedin |
 | ★★★★★ | [Environment Artist](https://www.adzuna.es/details/5972391311?utm_medium=api&utm_source=40fef500) | Bespoke Pixel | Barcelona | 2026-11-20 | 2026-11-24 | Adzuna |
-| ★★★★★ | [Environment Artist - Unreal Engine 5](https://www.adzuna.fr/details/5953930798?utm_medium=api&utm_source=40fef500) | Acid Pixel Studios | France | 2026-11-05 | 2026-11-24 | Adzuna |
 | ★★★★★ | [Expression of Interest - Unreal Environment Artist](https://jooble.org/away/9006308551365417458?p=1&pos=1&rgn=55157&cid=24876&ckey=environment+artist&jobAge=75&brelb=10&scr=419.5437&bscr=419.5437&aq=6268472249446129900&elckey=-7639652411686398128) | AGBO | Los Angeles, CA (remoto) | 2026-11-21 | 2026-11-24 | Jooble |
 | ★★★★★ | [3D Environment Artist](https://remotegamejobs.com/jobs/sperasoft-3d-environment-artist-remote-job) | Sperasoft (en tu lista) | Remoto (remoto) | 2026-11-25 | 2026-11-25 | RemoteGameJobs |
 | ★★★★ | [Unreal Environment Artist (m/f/d)](https://www.linkedin.com/jobs/view/4489613676) | welevel | Munich, Bavaria, Germany | 2026-11-10 | 2026-11-24 | Linkedin |
@@ -32,6 +31,7 @@ Actualizado: 2026-11-26 · 73 ofertas de los últimos 21 días.
 | ★★★★ | [Artista de Entornos (Environment Artist)](https://www.linkedin.com/jobs/view/4493442840) | El Ranchito (en tu lista) | Madrid, Community of Madrid, Spain | 2026-11-25 | 2026-11-26 | Linkedin |
 | ★★★★ | [3D Environment Artist — Flexible Hours & Remote Day](https://www.adzuna.es/details/5979506615?utm_medium=api&utm_source=40fef500) | Digital Sun (en tu lista) | Valencia, Comunidad Valenciana | 2026-11-26 | 2026-11-26 | Adzuna |
 | ★★★★ | [3D Artist/unreal Designer](https://www.adzuna.it/details/5978674807?utm_medium=api&utm_source=40fef500) | Balich Worldwide Shows | Milano, Provincia di Milano | 2026-11-25 | 2026-11-26 | Adzuna |
+| ★★★★ | [CDD 3D Environment Artist Projet Non Annoncé H/F](https://www.adzuna.fr/details/5980256385?utm_medium=api&utm_source=40fef500) | Asobo Studio (en tu lista) | Bordeaux, Gironde | 2026-11-27 | 2026-11-27 | Adzuna |
 | ★★★ | [Level Artist](https://pl.indeed.com/viewjob?jk=895adf6a4c07ed8c) | TECHLAND (en tu lista) | Wrocław, DO, Poland | 2026-11-12 | 2026-11-24 | Indeed |
 | ★★★ | [Game Artist - Paper.io 2](https://www.linkedin.com/jobs/view/4446350993) | Voodoo | Barcelona, Catalonia, Spain | 2026-11-14 | 2026-11-24 | Linkedin |
 | ★★★ | [Level Artist](https://www.linkedin.com/jobs/view/4491442585) | Side | Spain | 2026-11-17 | 2026-11-24 | Linkedin |
@@ -59,7 +59,6 @@ Actualizado: 2026-11-26 · 73 ofertas de los últimos 21 días.
 | ★★★ | [3D Artist](https://jooble.org/away/-2730027119518474928?p=1&pos=17&rgn=55157&cid=24876&ckey=3D+artist&jobAge=99&brelb=100&scr=311.91095&bscr=311.91095&aq=3099767650761830110&elckey=-4238613920008761794) | Deloitte | San Antonio, TX (remoto) | 2026-11-20 | 2026-11-24 | Jooble |
 | ★★★ | [3D Artist](https://jooble.org/away/-5553097773538716680?p=1&pos=18&rgn=55157&cid=24876&ckey=3D+artist&jobAge=17&brelb=100&scr=311.11877&bscr=311.11877&aq=3099767650761830110&elckey=-4238613920008761794) | Retail Plus Inc | Youngstown, OH (remoto) | 2026-11-23 | 2026-11-24 | Jooble |
 | ★★★ | [3D Artist](https://jooble.org/away/-7624138280396784531?p=1&pos=19&rgn=55157&cid=24876&ckey=3D+artist&jobAge=99&brelb=100&scr=302.4411&bscr=302.4411&aq=3099767650761830110&elckey=-4238613920008761794) | Citadel | Santa Rosa, CA (remoto) | 2026-11-20 | 2026-11-24 | Jooble |
-| ★★★ | [3D Generalist - AI Model Specialist](https://jooble.org/desc/516908648523067840?ckey=3D+generalist&rgn=55157&pos=1&groupId=43060&elckey=8619788003211080985&p=1&aq=9006094155869120464&cid=24876&jobAge=459&brelb=110&bscr=603.1655&scr=603.1655) | Mercor | New York, NY (remoto) | 2026-11-05 | 2026-11-24 | Jooble |
 | ★★★ | [3D Generalist](https://jooble.org/away/6954599636219139218?p=1&pos=2&rgn=55157&cid=24876&ckey=3D+generalist&jobAge=123&brelb=100&scr=520.3746&bscr=520.3746&aq=9006094155869120464&elckey=8619788003211080985) | Sprout | Boston, MA (remoto) | 2026-11-19 | 2026-11-24 | Jooble |
 | ★★★ | [3D Generalist - GameSim - Talent Pipeline](https://jooble.org/away/-3271681489595380861?p=1&pos=10&rgn=55157&cid=24876&ckey=3D+generalist&jobAge=27&brelb=100&scr=302.71133&bscr=302.71133&aq=9006094155869120464&elckey=8619788003211080985) | Keywords Studios Plc | Orlando, FL (remoto) | 2026-11-23 | 2026-11-24 | Jooble |
 | ★★★ | [3D Artist](https://www.linkedin.com/jobs/view/4494157082) | LearnShift | Bucharest, Romania (remoto) | 2026-11-24 | 2026-11-25 | Linkedin |
@@ -76,4 +75,6 @@ Actualizado: 2026-11-26 · 73 ofertas de los últimos 21 días.
 | ★★★ | [Mid 3D Artist](https://www.adzuna.it/details/5978674340?utm_medium=api&utm_source=40fef500) | Wolf | Milano, Provincia di Milano | 2026-11-25 | 2026-11-26 | Adzuna |
 | ★★★ | [3D Generalist](https://www.adzuna.it/details/5978672572?utm_medium=api&utm_source=40fef500) | Cubobianco | Firenze, Provincia di Firenze | 2026-11-25 | 2026-11-26 | Adzuna |
 | ★★★ | [Stage - 6 mois - Level Artist (F/H/NB) [AAA Project] - Janvier 2027](https://gamejobs.co/Stage-6-mois-Level-Artist-F-H-NB-AAA-Project-Janvier-2027-at-Ubisoft) | Ubisoft (en tu lista) | Annecy, France | 2026-11-26 | 2026-11-26 | GameJobs.co |
+| ★★★ | [Level Artist](https://www.linkedin.com/jobs/view/4489666703) | Game Companies | Stockholm, Stockholm County, Sweden | 2026-11-09 | 2026-11-27 | Linkedin |
+| ★★★ | [CDD 3D Artist Confirmé H/F](https://www.adzuna.fr/details/5980256416?utm_medium=api&utm_source=40fef500) | Ludogram | Lille, Nord | 2026-11-27 | 2026-11-27 | Adzuna |
 | ★★ | [3D Artist (Stories LifeTM)](https://www.adzuna.es/details/5962966405?utm_medium=api&utm_source=40fef500) | SUBARA SG Ltd. | España | 2026-11-12 | 2026-11-24 | Adzuna |
