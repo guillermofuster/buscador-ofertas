@@ -1342,5 +1342,23 @@
   "encaje": 4,
   "encontrada": "2026-11-27",
   "anios": null
+ },
+ "e56cf264425e14bd0fd9": {
+  "empresa": "ELK Studios",
+  "puesto": "Game Artist",
+  "url": "https://www.linkedin.com/jobs/view/4467070166",
+  "fuente": "Linkedin",
+  "pais": "Sweden",
+  "ubicacion": "Stockholm, Stockholm County, Sweden",
+  "remoto": false,
+  "publicada": "2026-11-10",
+  "descripcion": "",
+  "salario": null,
+  "candidatura_url": null,
+  "en_lista": false,
+  "id": "e56cf264425e14bd0fd9",
+  "encaje": 3,
+  "encontrada": "2026-11-28",
+  "anios": null
  }
 }

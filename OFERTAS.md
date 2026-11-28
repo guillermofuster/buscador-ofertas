@@ -1,6 +1,6 @@
 # Ofertas vigentes
 
-Actualizado: 2026-11-27 · 74 ofertas de los últimos 21 días.
+Actualizado: 2026-11-28 · 75 ofertas de los últimos 21 días.
 
 | Encaje | Puesto | Empresa | Lugar | Publicada | Encontrada | Fuente |
 |---|---|---|---|---|---|---|
@@ -77,4 +77,5 @@ Actualizado: 2026-11-27 · 74 ofertas de los últimos 21 días.
 | ★★★ | [Stage - 6 mois - Level Artist (F/H/NB) [AAA Project] - Janvier 2027](https://gamejobs.co/Stage-6-mois-Level-Artist-F-H-NB-AAA-Project-Janvier-2027-at-Ubisoft) | Ubisoft (en tu lista) | Annecy, France | 2026-11-26 | 2026-11-26 | GameJobs.co |
 | ★★★ | [Level Artist](https://www.linkedin.com/jobs/view/4489666703) | Game Companies | Stockholm, Stockholm County, Sweden | 2026-11-09 | 2026-11-27 | Linkedin |
 | ★★★ | [CDD 3D Artist Confirmé H/F](https://www.adzuna.fr/details/5980256416?utm_medium=api&utm_source=40fef500) | Ludogram | Lille, Nord | 2026-11-27 | 2026-11-27 | Adzuna |
+| ★★★ | [Game Artist](https://www.linkedin.com/jobs/view/4467070166) | ELK Studios | Stockholm, Stockholm County, Sweden | 2026-11-10 | 2026-11-28 | Linkedin |
 | ★★ | [3D Artist (Stories LifeTM)](https://www.adzuna.es/details/5962966405?utm_medium=api&utm_source=40fef500) | SUBARA SG Ltd. | España | 2026-11-12 | 2026-11-24 | Adzuna |
